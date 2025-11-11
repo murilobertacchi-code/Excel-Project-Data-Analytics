@@ -54,9 +54,9 @@ It includes detailed information on:
 
 - 🛠️ data_job_skills
 
-      <img width="243" height="328" alt="2_Project_Analysis_Screenshot2" src="https://github.com/user-attachments/assets/1ceeaa9c-85fd-4adf-b3bc-35deddcd9c6b" />
+<img width="243" height="328" alt="2_Project_Analysis_Screenshot2" src="https://github.com/user-attachments/assets/1596f89e-43c9-4e5b-8660-421e06d23aa0" />
 
-
+  
 #### 🔗 Load
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
